@@ -7,7 +7,7 @@
 	(title_block
 		(title "Unknow Keyboard Interface for Sinclair QL")
 		(date "2024-10-09")
-		(rev "0")
+		(rev "0.1")
 		(company "by Alvaro Alea")
 	)
 	(lib_symbols
