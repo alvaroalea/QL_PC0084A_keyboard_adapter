@@ -3,7 +3,7 @@ A reverse engineering exercice using a unknow Keyboard adapter for Sinclair QL f
 
 Licensed under Cern OHL-S - https://ohwr.org/cern_ohl_s_v2.txt
 
-Thanks to XorA for the adition information.
+Thanks to XorA for the aditional information.
 
 ## WARNING: DO NOT USE THIS PROJECT IS NOT TESTED AND MISSING THINGS
 This is not a functional item, it's only a exercice of reverse engineering to reinforce my skills in Kicad EDA Software.
@@ -16,7 +16,7 @@ Also this project is completely useless without the firmware of the microcontrol
 
 ## Firmware
 
-U2 is a D8749HC microcontroller with a 2Kb of OTP ROM, it shall contains some kind of Keyboard to Ascii interfac.
+U2 is a D8749HC microcontroller with a 2Kb of OTP ROM, it shall contains some kind of Keyboard to Ascii interface.
 
 U3 is a 27F64 8Kb EPROM, and contain a lookup table to convert the Ascii ouput of U2 to the Matrix of the QL computer.
 
