@@ -3,6 +3,8 @@ A reverse engineering exercice using a unknow Keyboard adapter for Sinclair QL f
 
 Licensed under Cern OHL-S - https://ohwr.org/cern_ohl_s_v2.txt
 
+Thanks to XorA for provide aditional details.
+
 ## WARNING: DO NOT USE THIS PROJECT IS NOT TESTED AND MISSING THINGS
 This is not a functional item, it's only a exercice of reverse engineering to reinforce my skills in Kicad EDA Software.
 
