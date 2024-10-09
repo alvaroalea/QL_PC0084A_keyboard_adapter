@@ -24,5 +24,5 @@ Original QL or Hermes chip shall be placed on the U1 Socket.
 ![My Components Side ](PCB_comp.png)
 ![My Copper Side](PCB_solder.png)
 ![Real Top](s-l1601.jpg)
-![Real Botton](s-l1601.jpg)
+![Real Botton](s-l1602.jpg)
 
